@@ -1,0 +1,16 @@
+1. Check Single Number
+2. Check Multiple Numbers
+Select Option: 2
+Enter number (or 'q' to stop): 12
+Enter number (or 'q' to stop): -7
+Enter number (or 'q' to stop): 0
+Enter number (or 'q' to stop): abc
+Invalid Input! Only integers allowed.
+Enter number (or 'q' to stop): q
+
+1. Number: 12 → Positive Even
+2. Number: -7 → Negative Odd
+3. Number: 0 → Zero (Even)
+
+Do you want to check again? (y/n): n
+Thanks for using me. Exiting...

@@ -1,0 +1,23 @@
+project:
+  name: Day 3 Mini Project - Even/Odd Checker
+  author: Faiz Ur Rehman Ashrafi
+  versions:
+    - v1:
+        description: Basic version that checks if a single number is even or odd
+        features:
+          - Input a number
+          - Check even or odd
+          - Handle invalid input
+    - v2:
+        description: Improved version with more detailed checks
+        features:
+          - Check Positive Even, Negative Even, Positive Odd, Negative Odd, Zero
+          - Single number mode
+          - Multiple number mode with quit option
+          - Show results of all inputs
+          - Handle invalid input
+          - Ask user to repeat program
+  files:
+    - even_odd_checker.py
+    - README.md
+    - output.txt
